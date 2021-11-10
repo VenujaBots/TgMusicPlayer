@@ -7,17 +7,18 @@ STICKER = "CAACAgQAAx0CQ2C8OgACsqNhiisoWUQROohUrpaGzDsHsot3dQACVxYAAtqjlSznBlAxy
 
 
 START_TEXT = """
-👋 Hey {} I am an Telegram Groups Music Player, I let you play music in your group's voice chat.
+👋 Hey {} I am an Vnd Groups Music Bot, Made by @Venuja_Sadew, I let you play music in your group's voice chat.
 
-**Commands** [Here](telegra.ph/A-Simple-Group-Music-player-bot-by-SDBotsz-11-09-2)
+**Commands** /dsong Anthem and /splay anthem **Working in Groups**
 
-Join @SDBotsz. 🔥
+Join @vndbotsupport. 🔥
 """
 
 START_BUTTON = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url="https://t.me/SDBOTs_inifinity"),
-        InlineKeyboardButton('Group', url='https://t.me/SDBOTz')
+        InlineKeyboardButton('Group ', url="https://t.me/vndbotsupport"),
+        InlineKeyboardButton('YTChannle', url="https://www.youtube.com/channel/UCL8PI42TZ_uaQWVVKUJx9Eg")
+        InlineKeyboardButton('➕ Add Me To Your Group ➕', url="http://t.me/VndGroupMusicBot?startgroup=true")
         ]]
   
 )
