@@ -14,5 +14,5 @@ DURATION_LIMIT = int(getenv("DURATION_LIMIT", 10))
 
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ !").split())
 
-SUDO_USERS = list(map(int, getenv("1826486119").split()))
+SUDO_USERS = getenv("1826486119").split()
 
