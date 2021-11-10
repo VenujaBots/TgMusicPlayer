@@ -10,7 +10,7 @@ BOT_TOKEN = getenv("2056447071:AAGakeL_LqhxnmQZsTSeK2vWc28Lr6GZ5zc")
 API_ID = int(getenv(7395896))
 API_HASH = getenv("cd3998ddf318dad74d7c506731bc0abc")
 
-DURATION_LIMIT = int(getenv("DURATION_LIMIT", "7"))
+DURATION_LIMIT = int(getenv("DURATION_LIMIT", "10"))
 
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ !").split())
 
