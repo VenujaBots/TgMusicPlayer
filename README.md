@@ -65,6 +65,9 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 </details>
 
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VenujaBots/TgMusicPlayer)
+
 
 ## Get Your String Session By [Pyrogram](https://replit.com/@sadew451/TGStringSession#main.py)
 ## Commands
